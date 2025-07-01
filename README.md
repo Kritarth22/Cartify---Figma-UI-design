@@ -30,5 +30,20 @@ This design is ideal for mobile shopping experiences and can be used as a founda
 
 ![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/0fe29819bdcfdb2cd3dcf8ac2ec6f2d28032b2dc/images/login.png)
 
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/Home_Page.png)
+
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/Home_page2.png)
+
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/Product%20Detail.png)
+
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/category.png)
+
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/My%20activity.png)
+
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/Payment.png)
+
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/Payment%20Done.png)
+
+
 
 Feel free to explore, duplicate, and use it as a starting point for your next shopping app project!
