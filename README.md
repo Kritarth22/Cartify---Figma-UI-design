@@ -25,4 +25,10 @@ This design is ideal for mobile shopping experiences and can be used as a founda
 🚀 To try the app directly (interactive prototype):
 [Use Cartify Prototype](https://www.figma.com/proto/WHwKJnp0xlcKzKpgaEkO8e/Cartify?node-id=3-12840&t=9FPUAeNCRqcXR1rE-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
+
+🖼️ Here are some images of this prototype:
+
+![Home Page][(images/home-page.png)](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/0fe29819bdcfdb2cd3dcf8ac2ec6f2d28032b2dc/images/login.png)
+
+
 Feel free to explore, duplicate, and use it as a starting point for your next shopping app project!
