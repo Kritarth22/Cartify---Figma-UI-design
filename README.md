@@ -17,3 +17,7 @@ Cartify is a modern and user-friendly e-commerce app prototype designed in Figma
 •Order Summary
 
 This design is ideal for mobile shopping experiences and can be used as a foundation for developing a full-stack e-commerce application.
+
+Here is the link to the design: [Cartify Figma Prototype](https://www.figma.com/design/WHwKJnp0xlcKzKpgaEkO8e/Cartify?node-id=0-1&p=f&t=nLDoBEtHLTLqT9wP-0)
+
+Feel free to explore, duplicate, and use it as a starting point for your next shopping app project!
