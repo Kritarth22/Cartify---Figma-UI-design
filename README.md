@@ -28,7 +28,7 @@ This design is ideal for mobile shopping experiences and can be used as a founda
 
 🖼️ Here are some images of this prototype:
 
-![image_alt]([https://github.com/Kritarth22/TO-DO-List/blob/5ea2cb88ae7a83d51844eeb8001f4f085841b17d/TO-DO-List.png](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/0fe29819bdcfdb2cd3dcf8ac2ec6f2d28032b2dc/images/login.png))
+![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/0fe29819bdcfdb2cd3dcf8ac2ec6f2d28032b2dc/images/login.png)
 
 
 Feel free to explore, duplicate, and use it as a starting point for your next shopping app project!
