@@ -44,6 +44,4 @@ This design is ideal for mobile shopping experiences and can be used as a founda
 
 ![image_alt](https://github.com/Kritarth22/Cartify---Figma-UI-design/blob/a8127b71d9ffb4a04b1186b8bdd2c4f846c5f7ac/images/Payment%20Done.png)
 
-
-
-Feel free to explore, duplicate, and use it as a starting point for your next shopping app project!
+Feel free to explore the design and use it as inspiration or a foundation for your next shopping app project!
